@@ -1,5 +1,5 @@
 {
-  "list-context-bullet-group": {
+  "list-context.bullet-group": {
     "component": "BulletGroup",
     "composition": "children",
     "allowed": "*",
