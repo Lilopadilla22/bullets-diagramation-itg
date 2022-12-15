@@ -25,7 +25,7 @@ const Bullet = ({ src, titleBullet, link }: Props) => {
   //console.log("Datos para mi bullet", src, titleBullet, link)
 
   return (
-    <div className= {handles["bullet__item"]}>
+    <div className= {`pt1 pl5 ${handles["bullet__item"]}`}>
       <Link
         to={link.url} className={handles["bullet__item--link"]}
       >
@@ -37,7 +37,7 @@ const Bullet = ({ src, titleBullet, link }: Props) => {
   )
 }
 
-Bullet.Schema = {
+Bullet.schema = {
   title: "Bullet",
   type: "objetc",
   properties: {
