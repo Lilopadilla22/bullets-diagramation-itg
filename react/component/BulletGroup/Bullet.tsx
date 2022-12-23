@@ -25,11 +25,11 @@ const Bullet = ({ src, titleBullet, link }: Props) => {
   //console.log("Datos para mi bullet", src, titleBullet, link)
 
   return (
-    <div className= {`pt1 pl5 ${handles["bullet__item"]}`}>
+    <div className={`pt1 pl5 ${handles["bullet__item"]}`}>
       <Link
         to={link.url} className={handles["bullet__item--link"]}
       >
-        <img className={`${handles["bullet__item--image"]} externalClass`} src={src} alt={titleBullet}/>
+        <img className={`${handles["bullet__item--image"]} externalClass`} src={src} alt={titleBullet} />
         <p className={handles["bullet__item--title"]}>{titleBullet}</p>
 
       </Link>
