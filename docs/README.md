@@ -1,14 +1,16 @@
 ## Bullet diagramation
 
-Bullet-diagramation es un componente que le permitira ver al cliente visualizar sus categorias de formas dinamicas. 
- ## Vista version desktop 
+Bullet-diagramation es un componente que le permitirá al cliente visualizar sus categorias de formas dinamicas. 
+
+## Vista version desktop 
+
 ![desktop__bullets](https://user-images.githubusercontent.com/97923792/209361529-aa4daea2-ec0b-40db-9d88-176a81a7641b.png)
 
  ## Vista version phone - tablet 
 
  ![phone__bullets](https://user-images.githubusercontent.com/97923792/209361685-29b5f0e7-5257-427b-9099-8b4050bdcbaf.png)
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
